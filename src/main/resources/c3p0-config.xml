@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<c3p0-config>
+
+  <named-config name="mysql">
+    <property name="driverClass">com.mysql.jdbc.Driver</property>
+	<property name="jdbcUrl">jdbc:mysql://192.168.1.244:3306</property>
+	<property name="user">hexinlin</property>
+	<property name="password">dhcwg</property>
+  </named-config>
+</c3p0-config>
